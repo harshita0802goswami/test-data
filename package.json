@@ -1,0 +1,23 @@
+{
+  "name": "test-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshita0802goswami/test-data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshita0802goswami/test-data/issues"
+  },
+  "homepage": "https://github.com/harshita0802goswami/test-data#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
